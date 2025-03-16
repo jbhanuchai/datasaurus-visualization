@@ -81,8 +81,8 @@ Ensure you have **Node.js (v14 or higher)** and **npm** installed.
 ### **Steps to Run the Project**
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/homework2-visualization.git
-   cd homework2-visualization
+   git clone https://github.com/jbhanuchai/datasaurus-visualization.git
+   cd datasaurus-visualization
    ```
 2. **Install Dependencies**:
     ```sh
