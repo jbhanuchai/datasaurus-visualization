@@ -35,7 +35,7 @@ The goal is to help users **analyze how datasets with identical statistics can h
 ---
 
 ## **Demo Video**
-[🎥 Click here to watch the demo](#) *(https://drive.google.com/file/d/1pSgQixIruPA4tzaB5JgVI7sLg3txXnok/view?usp=sharing)*
+[🎥 Click here to watch the demo](https://drive.google.com/file/d/1pSgQixIruPA4tzaB5JgVI7sLg3txXnok/view?usp=sharing)
 
 ---
 
