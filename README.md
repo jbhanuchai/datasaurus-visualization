@@ -26,7 +26,7 @@ The goal is to help users **analyze how datasets with identical statistics can h
 
 ## **Features**
 - **Brushing Interaction:** Users can **select** data points by **clicking and dragging** over the **Dino Plot**.  
-- **Linking Across Scatterplots:** Selected points are **highlighted across eight additional scatterplots**, allowing for easy comparison.  
+- **Linking Across Scatterplots:** Selected points are **highlighted across 8 additional scatterplots**, allowing for easy comparison.  
 - **Dynamic Bar Chart Updates:** The **Bar Chart updates in real-time**, reflecting **mean and standard deviation** for selected points.  
 - **Selection Reset:** Clicking **outside the scatterplot resets** the selection, restoring all points to **black** and resetting the **Bar Chart**.  
 - **Consistent Axis Scaling:** Ensures all scatterplots use **the same x and y range**, making comparisons across datasets accurate.  
@@ -105,7 +105,7 @@ The interactive visualization system allows users to explore the **Datasaurus Do
 - Selected points will turn **red**, while unselected points remain black.
 
 ### **2. Observe Linked Scatterplots**
-- The **same selected points** are **highlighted** in all **eight additional scatterplots**.
+- The **same selected points** are **highlighted** in all **8 additional scatterplots**.
 - This allows for **visual comparison** of the dataset's behavior across different distributions.
 
 ### **3. View Dynamic Bar Chart Updates**
